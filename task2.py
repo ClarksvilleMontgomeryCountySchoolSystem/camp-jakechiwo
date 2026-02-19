@@ -12,7 +12,7 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 # last
 
 
-# birth
+birth=int(birth)
 
 
 days=int(days)
@@ -35,6 +35,5 @@ days=int(days)
 
 # state
 
-
-zip_code = int(zip_code)
+# zip_code
 
